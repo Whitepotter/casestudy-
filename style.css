@@ -1,0 +1,33 @@
+
+.copy_right_footer{
+    background-color: grey;
+    line-height: 3;
+    width:100%;
+    bottom:0;
+    position: fixed;
+    text-align: center;
+    margin-top: 30px;
+}
+
+img{
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+.mini_result{
+    margin: 30px;
+}
+
+.result{
+    background-color: bisque;
+    color: black;
+    margin: 20px;
+}
+
+.final_result{
+    background-color: cadetblue;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 30px;
+    padding:10px;
+}
